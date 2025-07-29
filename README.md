@@ -30,8 +30,13 @@ Sample checking for simmikar sentances & paragraphs:
 1. Clone the Repository
 3. Set Up the Environment
 4. Install Dependencies
-   pip install -r requirements.txt
+   
+  . pip install -r requirements.txt
+
+
 4.Run the code file on your code window(eg: VS Code, Google Colab ,etc)
+
+  . semantic.py
 
 
 Thank You!!
