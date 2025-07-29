@@ -25,4 +25,13 @@ Sample checking for simmikar sentances & paragraphs:
 <img width="1009" height="281" alt="Screenshot 2025-07-29 at 11 51 20 AM" src="https://github.com/user-attachments/assets/af558ae1-5204-479f-872b-b49b5b129ea0" />
 
 
+# How to Use DocuMatch
+
+1. Clone the Repository
+3. Set Up the Environment
+4. Install Dependencies
+   pip install -r requirements.txt
+4.Run the code file on your code window(eg: VS Code, Google Colab ,etc)
+
+
 Thank You!!
