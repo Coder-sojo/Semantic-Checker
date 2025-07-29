@@ -15,6 +15,10 @@ It’s a small part of a bigger idea called **DocMatch**, which aims to automate
   -  No Match
 # Sample input/output:- 
 
+Sample checking for simmilar words:
 <img width="645" height="102" alt="Screenshot 2025-07-29 at 11 49 35 AM" src="https://github.com/user-attachments/assets/ad4aa3ea-0125-4044-a3ab-20f30c1672df" />
 
+Sample checking for simmikar sentances & paragraphs: 
 <img width="1009" height="281" alt="Screenshot 2025-07-29 at 11 51 20 AM" src="https://github.com/user-attachments/assets/af558ae1-5204-479f-872b-b49b5b129ea0" />
+
+Thank You!!
